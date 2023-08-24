@@ -8,5 +8,7 @@ public class Testcase1
 	public void m1()
 	{
 		System.out.println("Inside method 1");
+		//Add second print statement
+		System.out.println("Inside second statement");
 	}
 }
