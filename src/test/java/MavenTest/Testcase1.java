@@ -10,5 +10,6 @@ public class Testcase1
 		System.out.println("Inside method 1");
 		//Add second print statement
 		System.out.println("Inside second statement");
+		System.out.println("Inside third statement");
 	}
 }
